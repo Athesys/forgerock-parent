@@ -1,0 +1,24 @@
+[submodule "forgerock-bloomfilter"]
+	path = forgerock-bloomfilter
+	url = https://github.com/Athesys/forgerock-bloomfilter
+[submodule "forgerock-bom"]
+	path = forgerock-bom
+	url = https://github.com/Athesys/forgerock-bom
+[submodule "forgerock-build-tools"]
+	path = forgerock-build-tools
+	url = https://github.com/Athesys/forgerock-build-tools
+[submodule "forgerock-commons"]
+	path = forgerock-commons
+	url = https://github.com/Athesys/forgerock-commons
+[submodule "forgerock-guice"]
+	path = forgerock-guice
+	url = https://github.com/Athesys/forgerock-guice
+[submodule "forgerock-i18n-framework"]
+	path = forgerock-i18n-framework
+	url = https://github.com/Athesys/forgerock-i18n-framework
+[submodule "forgerock-persistit"]
+	path = forgerock-persistit
+	url = https://github.com/Athesys/forgerock-persistit
+[submodule "forgerock-ui"]
+	path = forgerock-ui
+	url = https://github.com/Athesys/forgerock-ui
