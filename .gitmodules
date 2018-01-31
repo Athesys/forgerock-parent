@@ -22,3 +22,6 @@
 [submodule "forgerock-ui"]
 	path = forgerock-ui
 	url = https://github.com/Athesys/forgerock-ui
+[submodule "maven-external-dependency-plugin"]
+	path = maven-external-dependency-plugin
+	url = https://github.com/Athesys/maven-external-dependency-plugin
