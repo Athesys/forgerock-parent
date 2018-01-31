@@ -1,27 +1,27 @@
 [submodule "forgerock-bloomfilter"]
 	path = forgerock-bloomfilter
-	url = https://github.com/Athesys/forgerock-bloomfilter
+	url = git@github.com:Athesys/forgerock-bloomfilter.git
 [submodule "forgerock-bom"]
 	path = forgerock-bom
-	url = https://github.com/Athesys/forgerock-bom
+	url = git@github.com:Athesys/forgerock-bom.git
 [submodule "forgerock-build-tools"]
 	path = forgerock-build-tools
-	url = https://github.com/Athesys/forgerock-build-tools
+	url = git@github.com:Athesys/forgerock-build-tools.git
 [submodule "forgerock-commons"]
 	path = forgerock-commons
-	url = https://github.com/Athesys/forgerock-commons
+	url = git@github.com:Athesys/forgerock-commons.git
 [submodule "forgerock-guice"]
 	path = forgerock-guice
-	url = https://github.com/Athesys/forgerock-guice
+	url = git@github.com:Athesys/forgerock-guice.git
 [submodule "forgerock-i18n-framework"]
 	path = forgerock-i18n-framework
-	url = https://github.com/Athesys/forgerock-i18n-framework
+	url = git@github.com:Athesys/forgerock-i18n-framework.git
 [submodule "forgerock-persistit"]
 	path = forgerock-persistit
-	url = https://github.com/Athesys/forgerock-persistit
+	url = git@github.com:Athesys/forgerock-persistit.git
 [submodule "forgerock-ui"]
 	path = forgerock-ui
-	url = https://github.com/Athesys/forgerock-ui
+	url = git@github.com:Athesys/forgerock-ui.git
 [submodule "maven-external-dependency-plugin"]
 	path = maven-external-dependency-plugin
-	url = https://github.com/Athesys/maven-external-dependency-plugin
+	url = git@github.com:Athesys/maven-external-dependency-plugin.git
