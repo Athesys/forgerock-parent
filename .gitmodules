@@ -28,3 +28,6 @@
 [submodule "forgerock-script"]
 	path = forgerock-script
 	url = git@github.com:Athesys/forgerock-script.git
+[submodule "forgerock-community-skin"]
+	path = forgerock-community-skin
+	url = git@github.com:Athesys/forgerock-community-skin.git
