@@ -25,3 +25,6 @@
 [submodule "maven-external-dependency-plugin"]
 	path = maven-external-dependency-plugin
 	url = git@github.com:Athesys/maven-external-dependency-plugin.git
+[submodule "forgerock-script"]
+	path = forgerock-script
+	url = git@github.com:Athesys/forgerock-script.git
