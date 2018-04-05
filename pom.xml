@@ -50,7 +50,7 @@
 		<tag>2.0.6</tag>
 	</scm>
 	<modules>
-		<module>forgerock-community-sink</module>
+		<module>forgerock-community-skin</module>
 		<module>maven-external-dependency-plugin/maven-external-dependency-plugin</module>
 		<module>forgerock-bom</module>
 		<module>forgerock-build-tools</module>
