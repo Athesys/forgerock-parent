@@ -31,3 +31,6 @@
 [submodule "forgerock-community-skin"]
 	path = forgerock-community-skin
 	url = git@github.com:Athesys/forgerock-community-skin.git
+[submodule "forgerock-launcher"]
+	path = forgerock-launcher
+	url = git@github.com:Athesys/forgerock-launcher.git
